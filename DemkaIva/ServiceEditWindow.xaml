@@ -1,0 +1,162 @@
+﻿<Window x:Class="DemkaIva.ServiceEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование услуги"
+        Height="650" Width="700"
+        MinHeight="600" MinWidth="650"
+        WindowStartupLocation="CenterOwner"
+        Icon="Images/beauty_logo.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Шапка -->
+        <Border Grid.Row="0" Background="#E1E4FF" Padding="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="Images/beauty_logo.png"
+                       Height="35" Stretch="Uniform" Margin="0,0,10,0"/>
+                <TextBlock x:Name="TxtHeader"
+                           Grid.Column="1"
+                           Text="Данные услуги"
+                           FontSize="18" FontWeight="Bold"
+                           VerticalAlignment="Center"/>
+            </Grid>
+        </Border>
+
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <Grid Margin="15">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- ID -->
+                <TextBlock Text="Идентификатор:"
+                           Grid.Row="0" VerticalAlignment="Center" Margin="0,6"/>
+                <TextBox x:Name="TxtId" Grid.Row="0" Grid.Column="1"
+                         Margin="0,6" Height="24" IsReadOnly="True"
+                         Background="#F0F0F0"/>
+
+                <!-- Название -->
+                <TextBlock Text="Наименование:"
+                           Grid.Row="1" VerticalAlignment="Center" Margin="0,6"/>
+                <TextBox x:Name="TxtTitle" Grid.Row="1" Grid.Column="1"
+                         Margin="0,6" Height="24"/>
+
+                <!-- Стоимость -->
+                <TextBlock Text="Стоимость (руб):"
+                           Grid.Row="2" VerticalAlignment="Center" Margin="0,6"/>
+                <TextBox x:Name="TxtCost" Grid.Row="2" Grid.Column="1"
+                         Margin="0,6" Height="24"
+                         PreviewTextInput="TxtNumeric_PreviewTextInput"/>
+
+                <!-- Длительность -->
+                <TextBlock Text="Длительность (мин):"
+                           Grid.Row="3" VerticalAlignment="Center" Margin="0,6"/>
+                <TextBox x:Name="TxtDuration" Grid.Row="3" Grid.Column="1"
+                         Margin="0,6" Height="24"
+                         PreviewTextInput="TxtNumeric_PreviewTextInput"/>
+
+                <!-- Скидка -->
+                <TextBlock Text="Скидка (%):"
+                           Grid.Row="4" VerticalAlignment="Center" Margin="0,6"/>
+                <TextBox x:Name="TxtDiscount" Grid.Row="4" Grid.Column="1"
+                         Margin="0,6" Height="24"
+                         PreviewTextInput="TxtNumeric_PreviewTextInput"/>
+
+                <!-- Основное изображение -->
+                <TextBlock Text="Основное изображение:"
+                           Grid.Row="5" VerticalAlignment="Top" Margin="0,10"/>
+                <StackPanel Grid.Row="5" Grid.Column="1"
+                            Orientation="Horizontal" Margin="0,10">
+                    <Border BorderBrush="#CCCCCC" BorderThickness="1"
+                            Width="120" Height="120" Background="#FAFAFA">
+                        <Image x:Name="ImgMain" Stretch="Uniform"/>
+                    </Border>
+                    <StackPanel Margin="10,0,0,0" VerticalAlignment="Top">
+                        <Button Content="Выбрать..."
+                                Click="BtnSelectMainImage_Click"
+                                Width="130" Margin="0,0,0,5"/>
+                        <Button Content="Удалить"
+                                Click="BtnDeleteMainImage_Click"
+                                Width="130" Background="DarkGray"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <!-- Дополнительные фото -->
+                <TextBlock Text="Дополнительные фото:"
+                           Grid.Row="6" VerticalAlignment="Top" Margin="0,10"/>
+                <StackPanel Grid.Row="6" Grid.Column="1" Margin="0,10">
+                    <ListBox x:Name="LbPhotos" Height="160"
+                             ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel/>
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Width="100" Margin="5">
+                                    <Image Source="{Binding FullPath}"
+                                           Width="90" Height="90"
+                                           Stretch="Uniform"/>
+                                    <TextBlock Text="{Binding ShortName}"
+                                               FontSize="10"
+                                               TextTrimming="CharacterEllipsis"
+                                               HorizontalAlignment="Center"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                        <Button Content="Добавить фото"
+                                Click="BtnAddPhotos_Click" Width="130"/>
+                        <Button Content="Удалить выбранное"
+                                Click="BtnDeletePhoto_Click" Width="170"
+                                Margin="10,0,0,0" Background="DarkGray"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <!-- Описание -->
+                <TextBlock Text="Описание:"
+                           Grid.Row="7" VerticalAlignment="Top" Margin="0,10"/>
+                <TextBox x:Name="TxtDesc"
+                         Grid.Row="7" Grid.Column="1"
+                         Margin="0,10" Height="80"
+                         TextWrapping="Wrap" AcceptsReturn="True"
+                         VerticalScrollBarVisibility="Auto"/>
+
+                <!-- Фото-пути (скрытое) -->
+                <TextBlock x:Name="TxtImage" Visibility="Collapsed"
+                           Grid.Row="8" Grid.Column="1"/>
+            </Grid>
+        </ScrollViewer>
+
+        <!-- Кнопки -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal"
+                    HorizontalAlignment="Right" Margin="15">
+            <Button Content="Сохранить"
+                    Click="BtnSave_Click" Width="120" Margin="0,0,10,0"/>
+            <Button Content="Отмена"
+                    Click="BtnCancel_Click" Width="120" Background="DarkGray"/>
+        </StackPanel>
+    </Grid>
+</Window>

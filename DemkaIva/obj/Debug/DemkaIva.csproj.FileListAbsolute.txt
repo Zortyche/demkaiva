@@ -1,0 +1,117 @@
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\122454.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\96.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\face.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\makeup.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\man.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\mask.jpeg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\piling.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\soliarij.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\брови.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Гречишный массаж.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Декорирование нарощенных ресниц стразами.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Демакияж.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Депиляция воском.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Европейский маникюр.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\ИК-сауна.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Классический маникюр.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Комбинированный маникюр.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Контурная пластика.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\массаж.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Мезотерапия.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Моделирование ресниц.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\ногти.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Окрашивание бровей.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Парафинотерапия.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Покрытие ногтей гель-лаком.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Полировка ногтей.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Прессотерапия.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Прокол ушей пистолетом.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Ресницы.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Снятие ресниц.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Стоун-терапия.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\стрижка.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Укрепление ногтей гелем.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Шугаринг.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Экспресс SPA.png
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\Images\Экспресс-педикюр.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\DemkaIva.exe.config
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\DemkaIva.exe
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\bin\Debug\DemkaIva.pdb
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\DemkaIva.csproj.AssemblyReference.cache
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\AppointmentsWindow.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\MainWindow.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\ServiceEditWindow.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\SignUpWindow.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\App.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\AppointmentsWindow.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\MainWindow.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\ServiceEditWindow.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\SignUpWindow.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\App.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\DemkaIva_Content.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\DemkaIva_MarkupCompile.cache
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\DemkaIva.g.resources
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\DemkaIva.Properties.Resources.resources
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\DemkaIva.csproj.GenerateResource.cache
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\DemkaIva.csproj.CoreCompileInputs.cache
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\DemkaIva.exe
+C:\Users\monke\OneDrive\Desktop\DemkaIva-main\DemkaIva\obj\Debug\DemkaIva.pdb
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\122454.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\96.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\face.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\makeup.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\man.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\mask.jpeg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\piling.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\soliarij.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\брови.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Гречишный массаж.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Декорирование нарощенных ресниц стразами.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Демакияж.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Депиляция воском.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Европейский маникюр.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\ИК-сауна.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Классический маникюр.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Комбинированный маникюр.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Контурная пластика.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\массаж.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Мезотерапия.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Моделирование ресниц.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\ногти.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Окрашивание бровей.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Парафинотерапия.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Покрытие ногтей гель-лаком.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Полировка ногтей.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Прессотерапия.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Прокол ушей пистолетом.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Ресницы.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Снятие ресниц.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Стоун-терапия.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\стрижка.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Укрепление ногтей гелем.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Шугаринг.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Экспресс SPA.png
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\Images\Экспресс-педикюр.jpg
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\DemkaIva.exe.config
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\DemkaIva.exe
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\bin\Debug\DemkaIva.pdb
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva.csproj.AssemblyReference.cache
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva.exe.config
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\AppointmentsWindow.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\MainWindow.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\ServiceEditWindow.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\SignUpWindow.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\App.baml
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\AppointmentsWindow.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\MainWindow.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\ServiceEditWindow.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\SignUpWindow.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\App.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva_Content.g.cs
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva_MarkupCompile.cache
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva.g.resources
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva.Properties.Resources.resources
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva.csproj.GenerateResource.cache
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva.csproj.CoreCompileInputs.cache
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva.exe
+C:\Users\monke\OneDrive\Desktop\DemkaIv\DemkaIva\obj\Debug\DemkaIva.pdb

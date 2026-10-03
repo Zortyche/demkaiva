@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DemkaIvaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gender>
+    <Gender>
+      <Code>М</Code>
+      <Name>Мужской</Name>
+    </Gender>
+    <Gender>
+      <Code>Ж</Code>
+      <Name>Женский</Name>
+    </Gender>
+  </Gender>
+  <Client>
+    <Client>
+      <ID>1</ID>
+      <FirstName>Анна</FirstName>
+      <LastName>Иванова</LastName>
+      <Patronymic>Сергеевна</Patronymic>
+      <Birthday xsi:nil="true" />
+      <RegistrationDate>2026-10-02T20:21:55.8291026+07:00</RegistrationDate>
+      <Email>anna.ivanova@example.com</Email>
+      <Phone>+7 900 111-22-33</Phone>
+      <GenderCode>Ж</GenderCode>
+    </Client>
+    <Client>
+      <ID>2</ID>
+      <FirstName>Мария</FirstName>
+      <LastName>Петрова</LastName>
+      <Patronymic>Алексеевна</Patronymic>
+      <Birthday xsi:nil="true" />
+      <RegistrationDate>2026-10-02T20:21:55.8308532+07:00</RegistrationDate>
+      <Email>maria.petrova@example.com</Email>
+      <Phone>+7 900 222-33-44</Phone>
+      <GenderCode>Ж</GenderCode>
+    </Client>
+    <Client>
+      <ID>3</ID>
+      <FirstName>Дмитрий</FirstName>
+      <LastName>Смирнов</LastName>
+      <Patronymic>Олегович</Patronymic>
+      <Birthday xsi:nil="true" />
+      <RegistrationDate>2026-10-02T20:21:55.8308532+07:00</RegistrationDate>
+      <Email>dmitry.smirnov@example.com</Email>
+      <Phone>+7 900 333-44-55</Phone>
+      <GenderCode>М</GenderCode>
+    </Client>
+  </Client>
+  <Service>
+    <Service>
+      <ID>1</ID>
+      <Title>Гречишный массаж</Title>
+      <Cost>2500</Cost>
+      <DurationInSeconds>3600</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Гречишный массаж.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>2</ID>
+      <Title>Декорирование нарощенных ресниц стразами</Title>
+      <Cost>500</Cost>
+      <DurationInSeconds>1200</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Декорирование нарощенных ресниц стразами.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>3</ID>
+      <Title>Демакияж</Title>
+      <Cost>300</Cost>
+      <DurationInSeconds>900</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Демакияж.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>4</ID>
+      <Title>Депиляция воском</Title>
+      <Cost>800</Cost>
+      <DurationInSeconds>1800</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Депиляция воском.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>5</ID>
+      <Title>Европейский маникюр</Title>
+      <Cost>1200</Cost>
+      <DurationInSeconds>3600</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Европейский маникюр.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>6</ID>
+      <Title>ИК-сауна</Title>
+      <Cost>1000</Cost>
+      <DurationInSeconds>1800</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\ИК-сауна.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>7</ID>
+      <Title>Классический маникюр</Title>
+      <Cost>1000</Cost>
+      <DurationInSeconds>3000</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Классический маникюр.png</MainImagePath>
+    </Service>
+    <Service>
+      <ID>8</ID>
+      <Title>Комбинированный маникюр</Title>
+      <Cost>1300</Cost>
+      <DurationInSeconds>4200</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Комбинированный маникюр.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>9</ID>
+      <Title>Контурная пластика</Title>
+      <Cost>8000</Cost>
+      <DurationInSeconds>2400</DurationInSeconds>
+      <Discount>0.1</Discount>
+      <MainImagePath>Images\Контурная пластика.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>10</ID>
+      <Title>Мезотерапия</Title>
+      <Cost>4500</Cost>
+      <DurationInSeconds>2700</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Мезотерапия.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>11</ID>
+      <Title>Моделирование ресниц</Title>
+      <Cost>2000</Cost>
+      <DurationInSeconds>5400</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Моделирование ресниц.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>12</ID>
+      <Title>Окрашивание бровей</Title>
+      <Cost>400</Cost>
+      <DurationInSeconds>1200</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Окрашивание бровей.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>13</ID>
+      <Title>Парафинотерапия</Title>
+      <Cost>900</Cost>
+      <DurationInSeconds>1800</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Парафинотерапия.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>14</ID>
+      <Title>Покрытие ногтей гель-лаком</Title>
+      <Cost>1500</Cost>
+      <DurationInSeconds>3600</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Покрытие ногтей гель-лаком.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>15</ID>
+      <Title>Полировка ногтей</Title>
+      <Cost>500</Cost>
+      <DurationInSeconds>1200</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Полировка ногтей.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>16</ID>
+      <Title>Прессотерапия</Title>
+      <Cost>1800</Cost>
+      <DurationInSeconds>2700</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Прессотерапия.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>17</ID>
+      <Title>Прокол ушей пистолетом</Title>
+      <Cost>1000</Cost>
+      <DurationInSeconds>900</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Прокол ушей пистолетом.png</MainImagePath>
+    </Service>
+    <Service>
+      <ID>18</ID>
+      <Title>Наращивание ресниц</Title>
+      <Cost>2500</Cost>
+      <DurationInSeconds>7200</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Ресницы.png</MainImagePath>
+    </Service>
+    <Service>
+      <ID>19</ID>
+      <Title>Снятие ресниц</Title>
+      <Cost>500</Cost>
+      <DurationInSeconds>1200</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Снятие ресниц.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>20</ID>
+      <Title>Стоун-терапия</Title>
+      <Cost>2800</Cost>
+      <DurationInSeconds>3600</DurationInSeconds>
+      <Discount>0.15</Discount>
+      <MainImagePath>Images\Стоун-терапия.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>21</ID>
+      <Title>Укрепление ногтей гелем</Title>
+      <Cost>1200</Cost>
+      <DurationInSeconds>2400</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Укрепление ногтей гелем.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>22</ID>
+      <Title>Шугаринг</Title>
+      <Cost>1000</Cost>
+      <DurationInSeconds>1800</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Шугаринг.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>23</ID>
+      <Title>Экспресс SPA</Title>
+      <Cost>3000</Cost>
+      <DurationInSeconds>3600</DurationInSeconds>
+      <Discount>0.2</Discount>
+      <MainImagePath>Images\Экспресс SPA.png</MainImagePath>
+    </Service>
+    <Service>
+      <ID>24</ID>
+      <Title>Экспресс-педикюр</Title>
+      <Cost>1500</Cost>
+      <DurationInSeconds>2700</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\Экспресс-педикюр.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>25</ID>
+      <Title>Пилинг лица</Title>
+      <Cost>1500</Cost>
+      <DurationInSeconds>1800</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\piling.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>26</ID>
+      <Title>Солярий</Title>
+      <Cost>600</Cost>
+      <DurationInSeconds>900</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\soliarij.jpg</MainImagePath>
+    </Service>
+    <Service>
+      <ID>27</ID>
+      <Title>Дневной макияж</Title>
+      <Cost>1500</Cost>
+      <DurationInSeconds>2700</DurationInSeconds>
+      <Discount xsi:nil="true" />
+      <MainImagePath>Images\makeup.jpg</MainImagePath>
+    </Service>
+  </Service>
+  <ServicePhoto />
+  <ClientService>
+    <ClientService>
+      <ID>1</ID>
+      <ClientID>1</ClientID>
+      <ServiceID>1</ServiceID>
+      <StartTime>2026-10-02T21:00:00+07:00</StartTime>
+    </ClientService>
+    <ClientService>
+      <ID>2</ID>
+      <ClientID>2</ClientID>
+      <ServiceID>5</ServiceID>
+      <StartTime>2026-10-03T11:00:00+07:00</StartTime>
+    </ClientService>
+    <ClientService>
+      <ID>3</ID>
+      <ClientID>3</ClientID>
+      <ServiceID>10</ServiceID>
+      <StartTime>2026-10-03T15:30:00+07:00</StartTime>
+    </ClientService>
+  </ClientService>
+</DemkaIvaData>
